@@ -1,0 +1,14 @@
+test1:
+Normal test case
+
+test2:
+Escape point is blocked with a rock
+
+test3:
+Invalid no. of columns
+
+test 4:
+Invalid no. of rows
+
+test5:
+Only one point to escape.
